@@ -1,4 +1,4 @@
-const API_URL = "https://script.google.com/macros/s/AKfycbz7ENnKE3-h8njG21Y2XYIEFNaEtplfQErzedQy_gZ8-H1T7LnYZiTjQhjdSIAqaJOS/exec";
+const API_URL = "https://script.google.com/macros/s/AKfycbzNlUXAzSmZo-Ya-L1BP3KiPINzsBv6454KlWSU7UM2OhmlpbvQ0laM3J2O_QWkurm6/exec";
 
 const PEOPLE = ["Calvin", "Jessica", "Issac", "수진", "여원", "경오", "대표", "고문님"];
 const DURATIONS = [
