@@ -1,7 +1,7 @@
 const SPREADSHEET_ID = "1NgJFVrwAXWzxc4U9363-FhU-7k5vdx5tmv32F8AuDzM";
 const SHEET_NAME = "Vacation";
 const HEADERS = ["name", "startDate", "duration", "endDate", "updatedAt"];
-const ALLOWED_NAMES = ["Calvin", "Jessica", "Issac", "수진", "여원", "경오", "대표"];
+const ALLOWED_NAMES = ["Calvin", "Jessica", "Issac", "수진", "여원", "경오", "대표", "고문님"];
 const ALLOWED_DURATIONS = [1, 2, 3, 4, 5];
 const HOLIDAY_CALENDAR_ID = "ko.south_korea#holiday@group.v.calendar.google.com";
 var HOLIDAY_CACHE = {};

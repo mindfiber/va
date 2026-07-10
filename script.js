@@ -1,6 +1,6 @@
 const API_URL = "https://script.google.com/macros/s/AKfycbz7ENnKE3-h8njG21Y2XYIEFNaEtplfQErzedQy_gZ8-H1T7LnYZiTjQhjdSIAqaJOS/exec";
 
-const PEOPLE = ["Calvin", "Jessica", "Issac", "수진", "여원", "경오", "대표"];
+const PEOPLE = ["Calvin", "Jessica", "Issac", "수진", "여원", "경오", "대표", "고문님"];
 const DURATIONS = [
   { label: "안씀", value: 0 },
   { label: "1일", value: 1 },
@@ -17,6 +17,7 @@ const COLORS = {
   "여원": "#ea580c",
   "경오": "#0891b2",
   "대표": "#4b5563",
+  "고문님": "#a16207",
 };
 
 const personButtonsEl = document.getElementById("personButtons");
